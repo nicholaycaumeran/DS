@@ -1,5 +1,6 @@
 # Data Science Portfolio
 
+# BG/NBD and Gamma/Gamma Model
 ## Model Description
 BG/NBD Beta-Geometric/Negative-Binomial Distribution and Gamma-Gamma Models
 
