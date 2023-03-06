@@ -17,17 +17,17 @@ BG/NBD Beta-Geometric/Negative-Binomial Distribution and Gamma-Gamma Models are 
 
 
 ## Model Output
-BG/NBD model predicts:
-* the number of purchases one will make in k future periods
-* the probability of one being active at the end of the observation period
+BG/NBD model predicts the following:
+* number of purchases one will make in k future periods
+* probability of one being active at the end of the observation period
 
-Gamma-gamma model predicts:
-* the average transaction value & lifetime value (LTV) of customer over the set period and set monthly discount rate
+Gamma-gamma model predict the following:
+* average transaction value & lifetime value (LTV) of customer over the set period and set monthly discount rate
 
 
 ## Practical Insights and Usage
-* Target customers based on Churn Rate/P(Alive) - Segment customers based on probability of being alive to Churned, Not Churned, High Risk of Churn and develop startegies to target to reactive or retain them to encourage loyalty. 
-* Profile High-Value Customers and target customers having similar profiles to acquire customers
+* Segment and target customers based on their purchase activity and develop or optimise marketing strategies to improve customer acquisition, retention and reactivation
+* Identify and profile High-Value Customers (based on their LTV) and target to acquire customers having similar profiles
 
 
 ## Model Limitations
