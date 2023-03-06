@@ -27,7 +27,8 @@ Gamma-gamma model predicts:
 * Profile High-Value Customers and target customers having similar profiles to acquire customers
 
 ## Model Limitations
-* Based on the paper on BG/NBD model ("Counting Your Customers" the Easy Way, "the BG/NBD model forecasts tend to be relatively poor when penetration and/or purchase frequency are extremely low. In a world where active buyers are either uncommon or very slow in making their purchases, BG/NBD will be outperformed by the Pareto/NBD model. In this case, the one-time buyers (~28% of customers) were removed before fitting the models. Pareto/NBD model should be fitted and compared. 
+* Based on the paper on BG/NBD model ("Counting Your Customers" the Easy Way, "the BG/NBD model forecasts tend to be relatively poor when penetration and/or purchase frequency are extremely low. In a world where active buyers are either uncommon or very slow in making their purchases, BG/NBD will be outperformed by the Pareto/NBD model. In this case, the one-time buyers (~28% of customers) were removed before fitting the models. 
+* Pareto/NBD model should be fitted and compared. 
 
 
 
