@@ -1,4 +1,4 @@
-# BG/NBD and Gamma/Gamma Model
+# BG/NBD and Gamma-Gamma Models for Customer Lifetime Value
 
 ## Model Description
 BG/NBD Beta-Geometric/Negative-Binomial Distribution and Gamma-Gamma Models are used in Customer Lifetime Value (CLV) analysis to estimate the expected value of a customer to a business over the course of their relationship.
